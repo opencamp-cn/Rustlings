@@ -1,4 +1,4 @@
-# Exercise to Book Chapter mapping
+# Exercise to Book Chapter mappingd
 
 | Exercise               | Book Chapter        |
 | ---------------------- | ------------------- |
