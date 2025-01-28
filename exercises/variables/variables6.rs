@@ -3,7 +3,7 @@
 // Execute `rustlings hint variables6` or use the `hint` watch subcommand for a
 // hint.
 
-const NUMBER: u32 = 3;
+const NUMBER: u32 = 5;
 fn main() {
     println!("Number {}", NUMBER);
 }
